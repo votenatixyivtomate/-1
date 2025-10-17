@@ -1,0 +1,77 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    int a = 10;
+    cout << "a = " << a << endl;
+    int b = -52;
+    cout << "b = " << b << endl;
+    int c = 57;
+    cout << "c = " << c << endl;
+    int d = 67;
+    cout << "d = " << d << endl;
+    int e = -42;
+    cout << "e = " << e << endl;
+    short chislo1 = 180;
+    cout << "chislo1 = " << chislo1 << endl;
+    short chislo2 = 90;
+    cout << "chislo2 = " << chislo2 << endl;
+    short chislo3 = 100;
+    cout << "chislo3 = " << chislo3 << endl;
+    short chislo4 = 80;
+    cout << "chislo4 = " << chislo4 << endl;
+    short chislo5 = 1488;
+    cout << "chislo5 = " << chislo5 << endl;
+    float name1 = 52.42;
+    cout << "name1 = " << name1 << endl;
+    float name2 = 52.52;
+    cout << "name2 = " << name2 << endl;
+    float name3 = 42.42;
+    cout << "name3 = " << name3 << endl;
+    float name4 = 14.88;
+    cout << "name4 = " << name4 << endl;
+    float name5 = 67.67;
+    cout << "name5 = " << name5 << endl;
+    double nameik1 = 1.337;
+    cout << "nameik1 = " << nameik1 << endl;
+    double nameik2 = 5.242;
+    cout << "nameik2 = " << nameik2 << endl;
+    double nameik3 = 7.777;
+    cout << "nameik3 = " << nameik3 << endl;
+    double nameik4 = 8.888;
+    cout << "nameik4 = " << nameik4 << endl;
+    double nameik5 = 9.999;
+    cout << "nameik5 = " << nameik5 << endl;
+    bool a_1 = true;
+    cout << "a_1 = " << a_1 << endl;
+    bool a_2 = true;
+    cout << "a_2 = " << a_2 << endl;
+    bool a_3 = false;
+    cout << "a_3 = " << a_3 << endl;
+    bool a_4 = true;
+    cout << "a_4 = " << a_4 << endl;
+    bool a_5 = false;
+    cout << "a_5 = " << a_5 << endl;
+    char ab = 'A';
+    cout << "ab = " << ab << endl;
+    char abc = 'B';
+    cout << "abc = " << abc << endl;
+    char abcd = 'C';
+    cout << "abcd = " << abcd << endl;
+    char abcde = 'D';
+    cout << "abcde = " << abcde << endl;
+    char abcdef = 'E';
+    cout << "abcdef = " << abcdef << endl;
+    string kaka1 = "Moscow";
+    cout << "kaka1 = " << kaka1 << endl;
+    string kaka2 = "Voronezh";
+    cout << "kaka2 = " << kaka2 << endl;
+    string kaka3 = "Mother";
+    cout << "kaka3 = " << kaka3 << endl;
+    string kaka4 = "Russia";
+    cout << "kaka4 = " << kaka4 << endl;
+    string kaka5 = "France";
+    cout << "kaka5 = " << kaka5 << endl;
+}
