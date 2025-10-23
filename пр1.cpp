@@ -64,14 +64,14 @@ int main()
     cout << "abcde = " << abcde << endl;
     char abcdef = 'E';
     cout << "abcdef = " << abcdef << endl;
-    string kaka1 = "Moscow";
-    cout << "kaka1 = " << kaka1 << endl;
-    string kaka2 = "Voronezh";
-    cout << "kaka2 = " << kaka2 << endl;
-    string kaka3 = "Mother";
-    cout << "kaka3 = " << kaka3 << endl;
-    string kaka4 = "Russia";
-    cout << "kaka4 = " << kaka4 << endl;
-    string kaka5 = "France";
-    cout << "kaka5 = " << kaka5 << endl;
+    string city1 = "Moscow";
+    cout << "city1 = " << city1 << endl;
+    string city2 = "Voronezh";
+    cout << "city2 = " << city2 << endl;
+    string city3 = "Mother";
+    cout << "city3 = " << city3 << endl;
+    string city4 = "Russia";
+    cout << "city4 = " << city4 << endl;
+    string city5 = "France";
+    cout << "city5 = " << city5 << endl;
 }
